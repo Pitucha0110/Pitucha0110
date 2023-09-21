@@ -5,7 +5,7 @@
 - 🦖Meu email é angel.neves@escola.pr.gov.br
 - 👀 Eu estou interessado em aprender mais sobre programação e computação.
 - 🌱 E eu recentemente comecei a programar com meu professor "Robertinho"
-![](https://tenor.com/pt-BR/view/ronaldinho-ronaldinho-gaucho-gaucho-ac-milan-football-gif-21498171)
+![](https://media.tenor.com/EUsE145uRjMAAAAd/cr7-fc.gif)
 
 <!-- -
 Pitucha0110/Pitucha0110 é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece em seu perfil do GitHub.
